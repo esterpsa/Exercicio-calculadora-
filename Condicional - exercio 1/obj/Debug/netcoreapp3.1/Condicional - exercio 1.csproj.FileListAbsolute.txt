@@ -1,0 +1,13 @@
+C:\Users\ACER\Desktop\Condicional - exercio 1\bin\Debug\netcoreapp3.1\Condicional - exercio 1.exe
+C:\Users\ACER\Desktop\Condicional - exercio 1\bin\Debug\netcoreapp3.1\Condicional - exercio 1.deps.json
+C:\Users\ACER\Desktop\Condicional - exercio 1\bin\Debug\netcoreapp3.1\Condicional - exercio 1.runtimeconfig.json
+C:\Users\ACER\Desktop\Condicional - exercio 1\bin\Debug\netcoreapp3.1\Condicional - exercio 1.runtimeconfig.dev.json
+C:\Users\ACER\Desktop\Condicional - exercio 1\bin\Debug\netcoreapp3.1\Condicional - exercio 1.dll
+C:\Users\ACER\Desktop\Condicional - exercio 1\bin\Debug\netcoreapp3.1\Condicional - exercio 1.pdb
+C:\Users\ACER\Desktop\Condicional - exercio 1\obj\Debug\netcoreapp3.1\Condicional - exercio 1.csprojAssemblyReference.cache
+C:\Users\ACER\Desktop\Condicional - exercio 1\obj\Debug\netcoreapp3.1\Condicional - exercio 1.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\Condicional - exercio 1\obj\Debug\netcoreapp3.1\Condicional - exercio 1.AssemblyInfo.cs
+C:\Users\ACER\Desktop\Condicional - exercio 1\obj\Debug\netcoreapp3.1\Condicional - exercio 1.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Condicional - exercio 1\obj\Debug\netcoreapp3.1\Condicional - exercio 1.dll
+C:\Users\ACER\Desktop\Condicional - exercio 1\obj\Debug\netcoreapp3.1\Condicional - exercio 1.pdb
+C:\Users\ACER\Desktop\Condicional - exercio 1\obj\Debug\netcoreapp3.1\Condicional - exercio 1.genruntimeconfig.cache
